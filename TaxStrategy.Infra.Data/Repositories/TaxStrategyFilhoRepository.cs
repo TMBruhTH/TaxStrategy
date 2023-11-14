@@ -24,7 +24,7 @@ namespace TaxStrategy.Infra.Data.Repositories
         #region [GetByEstado]
         public IEnumerable<TaxStrategyFilho> GetByEstado(string estado)
         {
-            return _context.DbTaxStrategyFilho.Where(x => x.Estado == estado).ToList();
+            return _context.DbTaxStrategyFilho.Where(x => x.Estado.Trim().ToLower() == estado.Trim().ToLower()).ToList();
         }
         #endregion
 
