@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaxStrategy.Application/1.0.0": {
+        "dependencies": {
+          "TaxStrategy.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaxStrategy.Application.dll": {}
+        }
+      },
+      "TaxStrategy.Domain/1.0.0": {
+        "runtime": {
+          "TaxStrategy.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxStrategy.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxStrategy.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

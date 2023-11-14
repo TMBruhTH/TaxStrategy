@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaxStrategy.Domain\TaxStrategy.Domain.csproj" />
+    <ProjectReference Include="..\TaxStrategy.Infra.Data\TaxStrategy.Infra.Data.csproj" />
+    <ProjectReference Include="..\TaxStrategy.Infrastructure.Ioc\TaxStrategy.Infrastructure.Ioc.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaxStrategyAPI.Web.Mvc.props" />
+</Project>

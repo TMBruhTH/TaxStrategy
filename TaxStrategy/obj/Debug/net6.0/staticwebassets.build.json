@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KBpytL1yb9XHB/q5DkmkOhkSJHlQyFanajEVTYuX2tc=",
+  "Source": "TaxStrategyAPI.Web.Mvc",
+  "BasePath": "_content/TaxStrategyAPI.Web.Mvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

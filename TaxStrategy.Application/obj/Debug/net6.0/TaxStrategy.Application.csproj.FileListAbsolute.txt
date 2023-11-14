@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\bin\Debug\net6.0\TaxStrategy.Application.deps.json
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\bin\Debug\net6.0\TaxStrategy.Application.dll
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\bin\Debug\net6.0\TaxStrategy.Application.pdb
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\bin\Debug\net6.0\TaxStrategy.Domain.dll
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\bin\Debug\net6.0\TaxStrategy.Domain.pdb
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.AssemblyInfo.cs
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.csproj.CopyComplete
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.dll
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\refint\TaxStrategy.Application.dll
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\TaxStrategy.Application.pdb
+C:\Users\Bruno\Documents\_TestesEmpresas\_TaxStrategy\TaxStrategy\TaxStrategy.Application\obj\Debug\net6.0\ref\TaxStrategy.Application.dll
